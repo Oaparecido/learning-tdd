@@ -15,6 +15,17 @@ With that installed just run the following command.
  $ docker-compose exec app
 ```
 
+## 🚀 How to create new tests 🚀
+📌 **First:** you need create a new file test into **./tests**
+
+📌 **Second:** added a new tag testsuite into **phpunit.xml**
+
+```xml
+    <testsuite name="new name for the you testsuite">
+        <file>"file path"</file>
+    </testsuite>
+```
+
 ## 🚀 How to run tests 🚀
 
 ```shell
