@@ -25,4 +25,10 @@ With that installed just run the following command.
 [(Doc) - PHPUnit](https://phpunit.de/documentation.html)
 
 ### 🚨 The test sets created so far 🚨
-📌 **...**
+#### ✅ Example test:
+📌 Is a test for exemplification from use phpunit with testsuite.
+
+**RUN**<br/>
+```shell
+ $ docker-compose exec app phpunit --testsuite example
+```
