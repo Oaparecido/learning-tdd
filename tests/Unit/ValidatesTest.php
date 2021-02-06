@@ -31,4 +31,12 @@ class ValidatesTest
          * [] Smartphone.
          */
     }
+
+    /**
+     * @test
+     */
+    public function animal()
+    {
+
+    }
 }
