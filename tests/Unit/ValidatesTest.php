@@ -4,7 +4,7 @@
 namespace Tests\Unit;
 
 
-class ValidateDocumentBrazilianTest
+class ValidatesTest
 {
 
 }
