@@ -13,4 +13,12 @@ class ValidatesTest
     {
 
     }
+
+    /**
+     * @test
+     */
+    public function phone()
+    {
+        
+    }
 }
