@@ -11,6 +11,12 @@ class ValidatesTest
      */
     public function brazilianDocument()
     {
+        /**
+         * Todo: Validates here:
+         * [] CPF.
+         * [] CNPJ.
+         * [] RG
+         */
 
     }
 
@@ -19,6 +25,10 @@ class ValidatesTest
      */
     public function phone()
     {
-        
+        /**
+         * Todo: Validates here:
+         * [] Residential.
+         * [] Smartphone.
+         */
     }
 }
